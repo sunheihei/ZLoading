@@ -26,7 +26,7 @@ public class ZLoadingView extends ImageView
 
     public ZLoadingView(Context context, AttributeSet attrs)
     {
-        this(context, attrs, -1);
+        this(context, attrs, 0);
     }
 
     public ZLoadingView(Context context, AttributeSet attrs, int defStyleAttr)

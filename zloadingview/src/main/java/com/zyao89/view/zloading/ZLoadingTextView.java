@@ -25,7 +25,7 @@ public class ZLoadingTextView extends ZLoadingView
 
     public ZLoadingTextView(Context context, AttributeSet attrs)
     {
-        this(context, attrs, -1);
+        this(context, attrs, 0);
     }
 
     public ZLoadingTextView(Context context, AttributeSet attrs, int defStyleAttr)
